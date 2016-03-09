@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/src/dictionary/word_list.c
+word_list.h
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/src/dictionary/word_list.h
+stdlib.h
+-
+stdio.h
+-
+wchar.h
+-
+
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/src/dictionary/word_list.h
+wchar.h
+-
+
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/src/dictionary/word_list_test.c
+stdarg.h
+-
+stddef.h
+-
+setjmp.h
+-
+stdlib.h
+-
+cmocka.h
+-
+word_list.h
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/src/dictionary/word_list.h
+

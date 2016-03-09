@@ -1,0 +1,8 @@
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/dict-check/CMakeFiles/dict-check.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/dict-editor/CMakeFiles/dict-editor.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/dictionary/CMakeFiles/dictionary.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/dictionary/CMakeFiles/dictionary_test.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/CMakeFiles/doc.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/gtk-editor/CMakeFiles/editor.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/dictionary/CMakeFiles/trie_test.dir
+/home/karras/Studia/IPP/Spell_Checker/SPELLCHECKII/debug/dictionary/CMakeFiles/word_list_test.dir

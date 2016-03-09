@@ -1,0 +1,8 @@
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/dict-check/CMakeFiles/dict-check.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/dict-editor/CMakeFiles/dict-editor.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/dictionary/CMakeFiles/dictionary.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/dictionary/CMakeFiles/dictionary_test.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/CMakeFiles/doc.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/gtk-editor/CMakeFiles/editor.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/dictionary/CMakeFiles/trie_test.dir
+/home/students/inf/k/kc359073/IPP/SPELLCHECK/release/dictionary/CMakeFiles/word_list_test.dir
